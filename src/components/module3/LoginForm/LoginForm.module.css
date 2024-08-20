@@ -1,0 +1,5 @@
+.button{
+    background-color: rgb(134, 28, 255);
+    display: flex;
+    align-items: center;
+}
