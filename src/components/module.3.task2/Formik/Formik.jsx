@@ -1,12 +1,2 @@
-import { Formik } from 'formik';
 
-const FeedbackForm = () => {
-  return (
-    <Formik initialValues={{}} onSubmit={() => {}}>
-			<Form>
-				...
-			</Form>
-    </Formik>
-  );
-};
-//initialValues, onSubmit - два пропси8
+//initialValues, onSubmit - два пропси
